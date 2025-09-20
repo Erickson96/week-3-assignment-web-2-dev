@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CSS Box Model Demo</title>
+  <!-- Link to external stylesheet -->
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Welcome to My Webpage</h1>
+    <p class="subtitle">A simple demo of the CSS Box Model</p>
+  </header>
+
+  <main>
+    <section class="card">
+      <h2>About</h2>
+      <p>
+        This section demonstrates the box model. Notice the padding around
+        the text, the border surrounding the box, and the margin spacing it
+        from other elements.
+      </p>
+    </section>
+
+    <section class="card">
+      <h2>Features</h2>
+      <ul>
+        <li>Padding inside boxes</li>
+        <li>Margins between boxes</li>
+        <li>Borders around boxes</li>
+        <li>Consistent spacing and layout</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 My Website</p>
+  </footer>
+</body>
+</html>
+        <article>
+            <h3>Key Techniques</h3>
+            <ul>
+            <li>Use relevant keywords in headings and content.</li>
+            <li>Optimize meta tags with descriptive titles and summaries.</li>
+            <li>Ensure fast load times and mobile-friendly design.</li>
+            </ul>
+        </article>
+        </section>
+    </main>
+    
+    <!-- Footer landmark -->
+    <footer>
+        <p>&copy; 2024 Your Name. All rights reserved.</p>
+    </footer>
